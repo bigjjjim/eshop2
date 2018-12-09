@@ -1,0 +1,43 @@
+h2.hometitle {
+	padding-left: 10vw;
+	color: #43A047;
+	font-size: 50px;
+}
+
+img.logo {
+  position: relative;
+}
+
+
+p.intro{
+  width: 500px;
+
+}
+
+div.home-content {
+  display: flex;
+  -webkit-justify-content: space-evenly;
+          justify-content: space-evenly;
+      -webkit-align-items: center;
+              align-items: center;
+      width: 80vw;
+
+}
+
+div.earth-logo {
+  width: 500px;
+  height: 500px;
+  -webkit-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+}
+
+article.main-content {
+  display: flex;
+  width: 100vw;
+  background: white;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-align-items: center;
+          align-items: center;
+  }

@@ -1,0 +1,22 @@
+h2.abouttitle {
+	display: flex;
+	padding-left: 10vw;
+	color: #43A047;
+	font-size: 50px;
+}
+
+p.about{
+	display: flex;
+	word-wrap: break-word;
+
+
+}
+article.wrapper {
+	height: 100vh;
+    display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100vw;
+  background: white;
+
+  }
